@@ -1,5 +1,6 @@
-#Assignment 4 - CS 3120 Machine Learning
-This assignment is an incomplete (read: questions left unanswered) example of the Jupyter notebooks
+##Assignment 4 - CS 3120 Machine Learning
+
+#This assignment is an incomplete (read: questions left unanswered) example of the Jupyter notebooks
 often used in my machine learning and deep learning coursework. The goal of these assignments was
 to familiarize oneself with the concepts introduced in the notebook and where appropriate, experiment
 with the implementations.
